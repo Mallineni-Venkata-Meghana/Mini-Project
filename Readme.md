@@ -1,4 +1,5 @@
 # Mini_Project
+
 # Railway Reservation System - (RRS)
 
 # Introduction:-
@@ -19,16 +20,3 @@ the adjacent elements if they are not sorted.
   4) The objective of this project is to provide a comprehensive approach towards the Railway Reservation System. 
 
 
-
-## Folder Structure
-Folder             | Description
--------------------| -----------------------------------------
-`1_Requirements`   | Documents detailing requirements and research
-`2_Designs`         | Documents specifying design details
-`3_Implementation` | All code and documentation
-`4_Testplan`      | Documents with test plans and procedures
-`5_Imagesandvideos`   | Images and Videos 
-`6_Report`   | Report of the whole project
-
-##### Whats Same: 
-* The Idea and Input Methodology
