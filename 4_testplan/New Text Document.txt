@@ -1,0 +1,47 @@
+Module-1
+
+(a) Implement sorting of Train numbers using Bubble Sort Algorithm
+(i) Prepare a collection of at least 50 train numbers
+(ii) Represent the bubble sort algorithm, using some pseudo code
+(iii) Construct an Array data structure to hold the above train numbers
+(iv) Translate the above pseudo code into a proper ‘C’ function
+(v) Write the driver program to test the above function
+(vi) Test the above C program thoroughly for various sequences of train numbers
+(vii) Fix the bugs found, and modify the code
+(viii) Verify the above fixes
+
+Module-2
+
+(b) Implement sorting of Train names using Selection sort algorithm
+(i) Prepare a collection of at least 50 train names
+(ii) Represent the selection sort algorithm, using some pseudo code
+(iii) Construct an Array data structure to hold the above train names
+(iv) Translate the above pseudo code into a proper ‘C’ function
+(v) Write the driver program to test the above function
+(vi) Test the above C program thoroughly for various sequences of train names
+(vii) Fix the bugs found, and modify the code
+(viii) Verify the above fixes
+
+Module-3
+
+(c) Implement sorting of passenger names (travelling in a train) using Insertion Sort algorithm
+(i) Prepare a collection of at least 50 passenger names
+(ii) Represent the insertion sort algorithm, using some pseudo code
+(iii) Construct an Array data structure to hold the above passenger names
+(iv) Translate the above pseudo code into a proper ‘C’ function
+(v) Write the driver program to test the above function
+(vi) Test the above C program thoroughly for various sequences of passenger names
+(vii) Fix the bugs found, and modify the code
+(viii) Verify the above fixes
+
+Module-4
+
+(d) Implement sorting of PNR numbers using Quick Sort algorithm
+(i) Prepare a collection of at least 50 PNR numbers
+(ii) Represent the quick sort algorithm, using some pseudo code
+(iii) Construct an Array data structure to hold the above PNR numbers
+(iv) Translate the above pseudo code into a proper ‘C’ function
+(v) Write the driver program to test the above function
+(vi) Test the above C program thoroughly for various sequences of PNR numbers
+(vii) Fix the bugs found, and modify the code
+(viii) Verify the above fixes
