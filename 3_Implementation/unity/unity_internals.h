@@ -25,7 +25,7 @@
 
 #ifdef UNITY_INCLUDE_PRINT_FORMATTED
 #include <stdarg.h>
-#endif
+#endif 
 
 /* Unity Attempts to Auto-Detect Integer Types
  * Attempt 1: UINT_MAX, ULONG_MAX in <limits.h>, or default to 32 bits
